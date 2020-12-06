@@ -16,5 +16,4 @@ npm start
 
 
 ## Project ScreenShot :point_down:
-
 ![](ScreenShot.png)
